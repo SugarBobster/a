@@ -1,7 +1,4 @@
-# a
-a test
-line3
-line4
-line5
+# a b Inventory System
+This is the root repository for the a b Inventory system.
 
-[Wiki link](https://github.com/SugarBobster/a/wiki)
+You can find introductory material and technical documentation in the [Wiki](https://github.com/SugarBobster/Inventory/wiki).
