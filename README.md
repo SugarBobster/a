@@ -4,4 +4,4 @@ line3
 line4
 line5
 
-[Wiki link](wiki)
+[Wiki link](https://github.com/SugarBobster/a/wiki)
